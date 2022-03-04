@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm André Freire Ferreira 👋
 
-<!--
-**anfreire/anfreire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-------
 
-Here are some ideas to get you started:
+- 🖥️ I’m currently studying on 42 Lisboa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 📫 How to reach me:
+     #### 📷 Instagram: @andreff2k
+     #### 📧 E-Mail: anfreire@student.42lisboa.com
+
+
+![giphy (2)](https://user-images.githubusercontent.com/100360644/156823803-c20b576a-c71f-42f8-b2ef-aa058cf39345.gif)
