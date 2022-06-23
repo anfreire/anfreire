@@ -2,7 +2,8 @@
 
 -------
 
-### - 🖥️ I’m currently studying on 42 Lisboa
+### - 🖥️ I'm now studying full-time at 42 Lisboa
+### - 🐍 During my free time, I am enrolled in the Harvard CS50 Python Course
       
       
 ### - 📫 How to reach me:   
