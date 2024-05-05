@@ -19,8 +19,5 @@
 ![ShellScript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![QT](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
-&nbsp;
-
-![anfreire's 42 stats](https://badge42.vercel.app/api/v2/clhi7hemx003008mwftk2f4b5/stats?cursusId=21&coalitionId=291) ![anfreire's LeetCode stats](https://leetcard.jacoblin.cool/anfreire_dev?theme=forest&font=Noto%20Sans%20Mono)
 
 
