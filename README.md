@@ -2,7 +2,7 @@
 
 -------
 
-### - 🖥️ I'm now studying full-time at 42 Lisboa
+### - 🖥️ I'm a full stack developer 
       
       
 ### - 📫 Social:
