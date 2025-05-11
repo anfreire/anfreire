@@ -39,7 +39,7 @@ These books are helping me deepen my understanding of software architecture and 
 
 ### 🔗 Connect with me
 
-[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://anfreire.com)
+[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://anfreire.dev)
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anfreire.dev@hotmail.com)
 
 Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate on a project or just chat about tech!
