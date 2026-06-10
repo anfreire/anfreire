@@ -1,45 +1,55 @@
 # André Freire Ferreira
 
-## Full Stack Developer | Porto, Portugal
+```
+~ $ whoami
+software engineer · porto, pt
+agent tooling · applied ml · linux
+```
 
-👋 Hello! I'm André, a passionate full stack developer based in Porto, Portugal.
+I build small, sharp, file-first tools. Trained at [42 Lisboa](https://www.42lisboa.com/)
+(2022–2023, the whole 16-project cursus from libc to a dockerized realtime pong platform).
+Linux is the only OS on my machines since 2022.
 
-### 💻 Tech Stack
+don't read about it — run it. **[anfreire.dev](https://anfreire.dev)** boots into a terminal
+(there's a GUI for clickers); every project below is a playable scene there.
 
-- **Languages:** C/C++, Python, PHP, TypeScript, JavaScript, Kotlin
-- **Frameworks:** React, React Native, jQuery, QT
-- **Current Work:** Full stack development using PHP, PostgreSQL, JavaScript, jQuery, HTML, and CSS
+### now
 
-### 🚀 Professional Experience
+| | | |
+|---|---|---|
+| [cc-oc](https://github.com/anfreire/cc-oc) | run opencode sessions from inside claude code | v0.6.1 · zero deps |
+| [wiki-spaces](https://github.com/anfreire/wiki-spaces) | a wiki for ai agents — the whole spec is one heading | v2.0.0 on [PyPI](https://pypi.org/project/wiki-spaces/) |
+| [omoctl](https://github.com/anfreire/omoctl) | switch your whole agent setup with one command | `uvx omoctl` |
+| private | applied-ml / quant research | python · gpu |
 
-I'm currently working as a full stack developer, leveraging my skills in PHP, PostgreSQL, JavaScript, jQuery, HTML, and CSS to build robust and efficient web applications.
+### proof of work
 
-### 🌱 Continuous Learning
+- **[updateMe](https://github.com/anfreire/updateMe-Mobile)** — android app updater for sideloaded apps.
+  **1,574 ★ · 1,093,377 downloads** (one release alone served 1.08M). React Native + Kotlin
+  modules + a python backend. Archived 2025 with a readme that points users somewhere better.
+- **[rtw8852c-fedora-fix](https://github.com/anfreire/rtw8852c-fedora-fix)** — pinned the one
+  firmware blob that stopped a kernel update from breaking bluetooth audio. 24 ★ of shared
+  suffering, plus the [debug notes](https://github.com/anfreire/rtw8852ce-bluetooth-debug) for
+  the next person.
+- **[42](https://github.com/anfreire/42)** — the full cursus: libc rebuild, printf, a shell,
+  threads/deadlocks, a raycaster, an IRC server speaking RFC 1459, and
+  ft_transcendence (react · nestjs · postgres · docker).
+- **[CS50](https://github.com/anfreire/CS50)** — harvard's python + AI courses, finals on video:
+  [a market-indices analyzer](https://youtu.be/60LYfcQoPeo) and
+  [a traffic-sign CNN](https://youtu.be/bRdj0caPolg) (tensorflow/keras, GTSRB dataset).
 
-I'm always eager to expand my knowledge and stay up-to-date with the latest trends in software development. Currently, I'm diving deep into Design Patterns to enhance my coding practices.
+### range
 
-### 🛠️ Side Projects
+```
+languages    python · typescript/javascript · c · c++ · shell · kotlin · sql · php
+ml           tensorflow · keras · scikit-learn · opencv (image processing)
+web/apps     react · react native · nestjs · node · qt
+systems      linux (fedora, daily) · docker & compose · postgres · sqlite
+networks     subnetting · sockets · an rfc-1459 irc server from scratch
+```
 
-In my free time, I enjoy working on personal projects. One of my current endeavors is [**Update Me**](https://github.com/anfreire/updateMe-Mobile/), a mobile app that helps users keep track of the latest versions of their favorite modded apps. This project showcases my full-stack development skills:
+### reach
 
-- **Frontend:** Built with React Native for a seamless mobile experience
-- **Native Modules:** Implemented in Kotlin for enhanced control and performance on Android
-- **Backend:** Powered by a Python server running on my personal Raspberry Pi
+site [anfreire.dev](https://anfreire.dev) · email [contact@anfreire.dev](mailto:contact@anfreire.dev) · [linkedin](https://www.linkedin.com/in/anfreire)
 
-This architecture allows for a responsive user interface, efficient device-level operations, and a flexible, self-hosted backend solution.
-
-### 📚 Current Reading & Learning
-
-I'm an avid reader of programming-related books, always seeking to improve my skills and knowledge. Here's what's on my bookshelf:
-
-- 📖 Currently reading: `Design Patterns: Elements of Reusable Object-Oriented Software` by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
-- 📅 Up next: `Clean Code: A Handbook of Agile Software Craftsmanship` by Robert C. Martin
-
-These books are helping me deepen my understanding of software architecture and best practices in coding.
-
-### 🔗 Connect with me
-
-[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://anfreire.dev)
-[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anfreire.dev@hotmail.com)
-
-Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate on a project or just chat about tech!
+*async-first: e-mail is the front door.*
