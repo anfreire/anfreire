@@ -18,7 +18,7 @@ don't read about it — run it. **[anfreire.dev](https://anfreire.dev)** boots i
 | | | |
 |---|---|---|
 | [cc-oc](https://github.com/anfreire/cc-oc) | run opencode sessions from inside claude code | v0.7.3 · zero deps |
-| [wiki-spaces](https://github.com/anfreire/wiki-spaces) | a wiki for ai agents — the whole spec is one heading | v3.0.0 on [PyPI](https://pypi.org/project/wiki-spaces/) |
+| [wiki-spaces](https://github.com/anfreire/wiki-spaces) | a wiki for ai agents — the whole spec is one heading | v3.0.0 · `npx skills add anfreire/wiki-spaces` |
 | [omoctl](https://github.com/anfreire/omoctl) | switch your whole agent setup with one command | v0.4.0 · `uvx omoctl` |
 | private | applied-ml / quant research | python · gpu |
 
