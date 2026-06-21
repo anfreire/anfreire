@@ -17,9 +17,9 @@ don't read about it — run it. **[anfreire.dev](https://anfreire.dev)** boots i
 
 | | | |
 |---|---|---|
-| [cc-oc](https://github.com/anfreire/cc-oc) | run opencode sessions from inside claude code | v0.6.1 · zero deps |
-| [wiki-spaces](https://github.com/anfreire/wiki-spaces) | a wiki for ai agents — the whole spec is one heading | v2.0.0 on [PyPI](https://pypi.org/project/wiki-spaces/) |
-| [omoctl](https://github.com/anfreire/omoctl) | switch your whole agent setup with one command | `uvx omoctl` |
+| [cc-oc](https://github.com/anfreire/cc-oc) | run opencode sessions from inside claude code | v0.7.3 · zero deps |
+| [wiki-spaces](https://github.com/anfreire/wiki-spaces) | a wiki for ai agents — the whole spec is one heading | v3.0.0 on [PyPI](https://pypi.org/project/wiki-spaces/) |
+| [omoctl](https://github.com/anfreire/omoctl) | switch your whole agent setup with one command | v0.4.0 · `uvx omoctl` |
 | private | applied-ml / quant research | python · gpu |
 
 ### proof of work
@@ -51,4 +51,3 @@ networks     subnetting · sockets · an rfc-1459 irc server from scratch
 ### reach
 
 site [anfreire.dev](https://anfreire.dev) · email [contact@anfreire.dev](mailto:contact@anfreire.dev)
-
