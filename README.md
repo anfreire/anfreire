@@ -52,4 +52,3 @@ networks     subnetting · sockets · an rfc-1459 irc server from scratch
 
 site [anfreire.dev](https://anfreire.dev) · email [contact@anfreire.dev](mailto:contact@anfreire.dev)
 
-*async-first: e-mail is the front door.*
