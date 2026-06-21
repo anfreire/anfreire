@@ -15,7 +15,7 @@ don't read about it — run it. **[anfreire.dev](https://anfreire.dev)** boots i
 
 ### now
 
-| | | version | last updated |
+| project | what it does | version | last updated |
 |---|---|---|---|
 | [cc-oc](https://github.com/anfreire/cc-oc) | run opencode sessions from inside claude code | v0.7.3 | 2026-06-19 |
 | [wiki-spaces](https://github.com/anfreire/wiki-spaces) | a wiki for ai agents — the whole spec is one heading | v3.0.0 | 2026-06-11 |
