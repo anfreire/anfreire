@@ -18,7 +18,7 @@ don't read about it — run it. **[anfreire.dev](https://anfreire.dev)** boots i
 | project | what it does | version | last updated |
 |---|---|---|---|
 | [summon-cc](https://github.com/anfreire/summon-cc) | give your agent a crew of claude code workers | v0.1.0 | 2026-07-02 |
-| [cc-oc](https://github.com/anfreire/cc-oc) | run opencode sessions from inside claude code | v0.7.3 | 2026-06-19 |
+| [cc-oc](https://github.com/anfreire/cc-oc) | run opencode sessions from inside claude code | v0.8.0 | 2026-07-02 |
 | [wiki-spaces](https://github.com/anfreire/wiki-spaces) | a wiki for ai agents — the whole spec is one heading | v3.0.0 | 2026-06-11 |
 | [omoctl](https://github.com/anfreire/omoctl) | switch your whole agent setup with one command | v0.4.0 | 2026-06-10 |
 | private | applied-ml / quant research | — | — |
