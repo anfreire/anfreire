@@ -17,10 +17,10 @@ don't read about it — run it. **[anfreire.dev](https://anfreire.dev)** boots i
 
 | project | what it does | version | last updated |
 |---|---|---|---|
+| [cc-oc](https://github.com/anfreire/cc-oc) | run opencode sessions from inside claude code | v0.8.1 | 2026-07-24 |
 | [patch-cc](https://github.com/anfreire/patch-cc) | patch the claude code binary — the settings menu that ships as a patcher | v0.1.4 | 2026-07-23 |
 | [wiki-spaces](https://github.com/anfreire/wiki-spaces) | a wiki for ai agents — the whole spec is one heading | v4.2.0 | 2026-07-17 |
 | [summon-cc](https://github.com/anfreire/summon-cc) | give your agent a crew of claude code workers | v0.2.0 | 2026-07-13 |
-| [cc-oc](https://github.com/anfreire/cc-oc) | run opencode sessions from inside claude code | v0.8.0 | 2026-07-02 |
 | [omoctl](https://github.com/anfreire/omoctl) | switch your whole agent setup with one command | v0.4.0 | 2026-06-10 |
 | private | applied-ml / quant research | — | — |
 
