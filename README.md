@@ -21,7 +21,7 @@ don't read about it — run it. **[anfreire.dev](https://anfreire.dev)** boots i
 | [cc-oc](https://github.com/anfreire/cc-oc) | detached opencode sessions from inside claude code | v0.8.1 | 2026-07-24 |
 | [wiki-spaces](https://github.com/anfreire/wiki-spaces) | a wiki your agent keeps for you — the whole spec is one page | v4.2.0 | 2026-07-17 |
 | [summon-cc](https://github.com/anfreire/summon-cc) | give your agent a crew of claude code workers | v0.2.0 | 2026-07-13 |
-| [omoctl](https://github.com/anfreire/omoctl) | switch your opencode profile with one command | v0.4.0 | 2026-06-10 |
+| [omoctl](https://github.com/anfreire/omoctl) | switch your whole oh-my-openagent setup with one command | v0.4.0 | 2026-06-10 |
 | private | applied-ml / quant research | — | — |
 
 ### proof of work
