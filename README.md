@@ -17,11 +17,11 @@ don't read about it — run it. **[anfreire.dev](https://anfreire.dev)** boots i
 
 | project | what it does | version | last updated |
 |---|---|---|---|
-| [summon-cc](https://github.com/anfreire/summon-cc) | give your agent a crew of claude code workers | v0.2.1 | 2026-09-13 |
-| [patch-cc](https://github.com/anfreire/patch-cc) | patch the claude code binary — the settings menu that ships as a patcher | v0.6.0 | 2026-09-12 |
+| [conclave](https://github.com/anfreire/conclave) | one agent spawns agents on claude code, codex or opencode and talks with them | v0.1.0 | 2026-09-21 |
+| [patch-cc](https://github.com/anfreire/patch-cc) | patch the claude code binary — the settings menu that ships as a patcher | v0.6.1 | 2026-09-21 |
 | [wiki-spaces](https://github.com/anfreire/wiki-spaces) | a wiki your agent keeps for you — the whole spec is one page | v4.3.0 | 2026-09-08 |
-| [cc-oc](https://github.com/anfreire/cc-oc) | detached opencode sessions from inside claude code | v0.8.2 | 2026-07-26 |
-| [omoctl](https://github.com/anfreire/omoctl) | switch your whole oh-my-openagent setup with one command | v0.4.0 | 2026-06-10 |
+| [forja](https://github.com/anfreire/forja) | squeeze png/jpeg/webp/avif — same format out, no quality knobs | v0.2.1 | 2026-08-20 |
+| [omoctl](https://github.com/anfreire/omoctl) | switch your whole oh-my-openagent setup with one command | v0.5.0 | 2026-08-15 |
 | private | applied-ml / quant research | — | — |
 
 ### proof of work
@@ -29,6 +29,10 @@ don't read about it — run it. **[anfreire.dev](https://anfreire.dev)** boots i
 - **[updateMe](https://github.com/anfreire/updateMe-Mobile)** — android app updater for sideloaded apps.
   **1,574 ★ · 1,093,377 downloads** (one release alone served 1.08M). React Native + Kotlin
   modules + a python backend. Archived 2025 with a readme that points users somewhere better.
+- **[summon-cc](https://github.com/anfreire/summon-cc)** and
+  **[cc-oc](https://github.com/anfreire/cc-oc)** — the two predecessors of conclave: claude code
+  workers in detached tmux panes, and detached opencode sessions from inside claude code. Both
+  archived 2026, each with a readme that points at its successor.
 - **[rtw8852c-fedora-fix](https://github.com/anfreire/rtw8852c-fedora-fix)** — pinned the one
   firmware blob that stopped a kernel update from breaking bluetooth audio. 24 ★ of shared
   suffering, plus the [debug notes](https://github.com/anfreire/rtw8852ce-bluetooth-debug) for
