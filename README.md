@@ -17,8 +17,8 @@ don't read about it — run it. **[anfreire.dev](https://anfreire.dev)** boots i
 
 | project | what it does | version | last updated |
 |---|---|---|---|
+| [patch-cc](https://github.com/anfreire/patch-cc) | patch the claude code binary — the settings menu that ships as a patcher | v0.8.0 | 2026-11-08 |
 | [conclave](https://github.com/anfreire/conclave) | one agent spawns agents on claude code, codex or opencode and talks with them | v0.2.1 | 2026-11-02 |
-| [patch-cc](https://github.com/anfreire/patch-cc) | patch the claude code binary — the settings menu that ships as a patcher | v0.7.3 | 2026-11-01 |
 | [forja](https://github.com/anfreire/forja) | squeeze png/jpeg/webp/avif — same format out, no quality knobs | v0.2.1 | 2026-09-21 |
 | [omoctl](https://github.com/anfreire/omoctl) | switch your whole oh-my-openagent setup with one command | v0.5.0 | 2026-09-21 |
 | [wiki-spaces](https://github.com/anfreire/wiki-spaces) | a wiki your agent keeps for you — the whole spec is one page | v4.3.0 | 2026-09-08 |
